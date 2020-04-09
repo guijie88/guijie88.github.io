@@ -13,9 +13,10 @@ a {
 }
 
 .header-logo {
-  font-size: 36px;
+  font-size: 45px;
   float: left;
   padding: 20px 40px;
+  color: white;
 }
 
 .container {
